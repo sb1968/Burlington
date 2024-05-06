@@ -21,5 +21,12 @@
     </ul>
     <h2>Spatial distribution of median income and potential disadvantaged population</h2>
     <p>The median income estimates from $25,500 to $245,662 in Burlington County. They are mapped using natural breaks method. The map shows the distribution of median income by census tracts where the darker color shows higher income and lighter shades indicate census tracts with lower income. The indicator of potential disadvantage shows the census tracts with potential vulnerable population. The darker shades indicate higher vulnerability of population in the respective census tract. In simple language, the higher IPD score indicates higher need by population and vice versa.</p>
+ <img src="IPD.jpg" alt="IPD Image">
+    <h2>Spatial Distribution of Essential Services in relation to median income and potentially disadvantaged population</h2>
+    <p>Observing the distribution of essential services over both the maps, we can conclude that essential services are unevenly distributed across the county. They are more concentrated on the west side of the county, where both income and potentially disadvantage census tracts are distributed. However, the north end shows limited essential services. The east of the county is predominantly forest cover, thus, limited coverage of essential services.</p>
+   <img src="INCOME" alt="INCOME Image">  
+    <h2>Spatial Distribution of Transit service area in relation to median income and potentially disadvantaged population</h2>
+    <p>The transit stops with 0.5 mile area acting as service area are also unevenly distributed. They are mainly concentrated on the west side of the county. The south and north end are barely catered to.</p>
+    <img src="Transit" alt="Transit Image">  
 </body>
 </html>
