@@ -28,5 +28,10 @@
     <h2>Spatial Distribution of Transit service area in relation to median income and potentially disadvantaged population</h2>
     <p>The transit stops with 0.5 mile area acting as service area are also unevenly distributed. They are mainly concentrated on the west side of the county. The south and north end are barely catered to.</p>
     <img src="Transit.png" alt="Transit Image">  
+    <h2>Conclusion:</h2>
+    <p>The accessibility to services and transit is limited in north and south census tracts of the County. The census tracts on the north show potentially disadvantage population who are not catered by the essential services and transit services. Thus, limited accessibility to services within these communities.</p>
+    <h2>Interactive map to view the type of services and coverage of transit service area in Burlington County</h2>
+    <iframe src="interactive_map.html" height="600" width="900"></iframe>
+    you can explore this map [as its own web page here](interactive_map.html)
 </body>
 </html>
